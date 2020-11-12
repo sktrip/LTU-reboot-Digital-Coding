@@ -1,2 +1,2 @@
 # LTU-reboot-Digital-Coding
-Web development
+Web development using HTML5, CSS3 and Javascript
