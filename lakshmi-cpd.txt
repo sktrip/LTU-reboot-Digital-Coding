@@ -11,5 +11,39 @@ Learning something new is always a wonderful experience :)
 1.2 - 11/11/2020
 
 Reflection
-Today we have gone through the concepts of internet in depth.
 
+Today we have gone through the concepts of internet in depth.
+Learnt about client-server and how intenet comes to our system.
+Got to know the technologies we are goint to use for web development.
+
+Waiting to start the real action :) (coding)
+
+1.3 - 12/11/2020
+
+Reflection
+
+All setting up to start working.
+
+Today, have installed and set up github desktop, Visual studio code and created my own github account.
+
+Started using freecodecamp for coding practice as suggested by Luke in today's meeting.
+
+Coding sounded scary before I started learning it and now it's kinda fun. Got to see how this progresses 
+
+
+1.4 - 13/11/2020
+
+Reflection
+
+Learnt about version control and how github works. created repository in github and forked it to luke's repository.
+
+Created folder structure in visual studio code and created this file :D used commit on github client and pushed to main repository, everything went cool.
+
+
+2.1 - 16/11/2020
+
+Reflection
+
+Created our first html file today and saw the reuly on a web browser (like an actual web page :) )
+
+Checked in this file to github client. I need to do a bit more practicing HTML now.
