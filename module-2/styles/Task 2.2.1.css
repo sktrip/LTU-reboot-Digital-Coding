@@ -1,3 +1,14 @@
 body {
-    background-color:yellow;
+    background-color:gray;
 }
+p {
+    color:blue;
+ }
+ li
+ {
+     background-color: coral;
+ }
+ a
+ {
+     color:green;
+ }
