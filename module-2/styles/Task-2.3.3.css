@@ -1,0 +1,13 @@
+a:link {color:yellow;
+}
+
+a:visited {
+    color: red;
+    font-style: italic;
+}
+
+a:hover, a:focus {color:green;}
+
+a:active {
+    background-color: grey;
+}
