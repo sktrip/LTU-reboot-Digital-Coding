@@ -16,12 +16,15 @@ p {
      color:green;
      font-size: large;
  }
- em{
+ p em{
      color:black;
      font-style:normal;
      font-size:30;
  }
- strong
+ p strong
  {
      color:red;
+ }
+ p{
+     background-color: brown;
  }
