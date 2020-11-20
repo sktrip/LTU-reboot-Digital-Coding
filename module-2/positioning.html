@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>positioning</title>
+    <style>
+        .parent
+        {
+            border: 6px blueviolet;
+            background-color: blueviolet;
+            height: 500px;
+            width:500px;
+
+            position:relative;
+            top:50px;
+            left: 50px;
+        }
+        .child
+        {
+            border: 6px green;
+            background-color: green;
+            height: 100px;
+            width:100px;
+
+            position: absolute;
+            top: 50px;
+            left:50px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">Parent
+        <div class="child">child</div>
+    </div>
+    
+</body>
+</html>
