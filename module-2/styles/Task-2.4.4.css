@@ -1,0 +1,26 @@
+div
+{
+    border: 6px blueviolet;
+    background-color: blueviolet;
+    height: 500px;
+    width:500px;
+
+    position:relative;
+    top:50px;
+    left: 50px;
+
+}
+img{
+    width : 100%;
+}
+
+p{
+    border: 6px grey;
+    background-color: grey;
+    height: 100px;
+    width:100px;
+
+    position:absolute;
+    top:200px;
+    left: 100px;
+}
