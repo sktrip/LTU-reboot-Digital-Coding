@@ -1,0 +1,20 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+    font-size: 14px;
+}
+
+h1 {
+    margin-bottom: 170px;
+    width: 100%;
+}
+
+section p{
+
+    max-width: 375px;
+
+}
