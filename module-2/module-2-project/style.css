@@ -18,3 +18,21 @@ section p{
     max-width: 375px;
 
 }
+
+.image1 {
+    max-width: 1200px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.image2 img {
+    max-width: 630px;
+    margin-bottom: 50px;
+
+}
+
+.image2 p {
+    background-color: blue;
+    max-width: 630px;
+    padding: 10px 20px 10px 20px;
+}
