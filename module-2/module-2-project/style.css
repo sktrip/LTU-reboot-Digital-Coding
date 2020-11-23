@@ -82,3 +82,25 @@ h2 {
     margin-bottom: 80px;
     
 }
+
+footer {
+    background-color: lemonchiffon;
+    color: black;
+    padding: 30px;
+    max-width: 1100px;
+}
+footer a
+{
+    color: plum;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+footer p {
+    margin-bottom: 12px;
+}
+
+.links {
+    margin-top: 50px;
+}
