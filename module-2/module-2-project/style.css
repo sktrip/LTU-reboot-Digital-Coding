@@ -16,7 +16,8 @@ h1 {
 
 section p{
 
-    max-width: 375px;
+    max-width: 600px;
+    background-color: grey;
 
 }
 
@@ -34,7 +35,7 @@ section p{
 
 .image2 p {
     background-color: grey;
-    max-width: 630px;
+    max-width: 600px;
     padding: 10px 20px 10px 20px;
 }
 
@@ -52,7 +53,7 @@ section p{
 
 .image3 p {
     background-color: grey;
-    max-width: 1100px;
+    max-width: 600px;
     padding: 10px 20px 10px 20px;
 }
 
@@ -62,7 +63,7 @@ section p{
 
 .image4 img {
     
-    max-width: 1200px;
+    max-width: 70%;
     
 }
 
@@ -78,7 +79,7 @@ h2 {
 
 .further {
     margin-top: 50px;
-    max-width: 350px;
+    max-width: 630px;
     margin-bottom: 80px;
     
 }
