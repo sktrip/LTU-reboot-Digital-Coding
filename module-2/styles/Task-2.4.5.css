@@ -1,0 +1,12 @@
+.float{
+    float:left;
+    width:200px;
+    background-color: grey;
+
+}
+
+.sidebar{
+    float:right;
+    width: 100px;
+    background-color: green;
+}
