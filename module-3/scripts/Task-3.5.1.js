@@ -65,7 +65,7 @@ let shoppingCart = [
     for(i=0; i<arr.length; i++) {
       totalPrice += (arr[i].quantity * arr[i].price);
     }
-    return totalPrice;
+    return totalPrice.toFixed(2);
 }
     var totalCost = shoppingCartTotalPrice(shoppingCart);
     console.log('Total cost of the shopping cart items is :'+totalCost);
