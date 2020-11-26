@@ -68,4 +68,4 @@ let shoppingCart = [
     return totalPrice.toFixed(2);
 }
     var totalCost = shoppingCartTotalPrice(shoppingCart);
-    console.log('Total cost of the shopping cart items is :'+totalCost);
+    console.log('Total cost of the shopping cart items is : '+totalCost);
