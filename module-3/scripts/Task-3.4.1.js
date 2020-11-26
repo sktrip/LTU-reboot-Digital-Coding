@@ -1,5 +1,6 @@
 for (var i = 1; i<=12; i++) {
-    var number = 8
-    var result = i * number;
-        console.log(number+ ' * '+i +' = '+result )
-}
+    for (var j=1 ; j<=12; j++) {
+        var result = i*j;
+        console.log(j + ' * ' +i+'= '+result)
+    } console.log('*=================================*')
+} 
