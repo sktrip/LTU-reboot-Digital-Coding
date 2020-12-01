@@ -25,6 +25,9 @@ p {
  {
      color:red;
  }
- p{
+ #paragraph {
      color: brown;
+ }
+ strong{
+     color:green;
  }

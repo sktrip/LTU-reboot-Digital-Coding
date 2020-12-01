@@ -1,7 +1,8 @@
 var billAmount = 47
+
 var tipAmount = 15
 
-var tipCalculated = billAmount * (tipAmount/100)
+var tipCalculated = (billAmount * tipAmount)/100
 
 var totalBill = billAmount + tipCalculated
 
