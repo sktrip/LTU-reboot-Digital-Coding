@@ -1,5 +1,4 @@
-var button = document.getElementById('myBtn');
+var textbox1 = document.getElementById('textbox1');
 
-button.onmouseover('click', function (event)
-{ alert('Hello');
-});
+textbox1.addEventListener('mouseover', function(event) { 
+    event.alert('Hello'); })
